@@ -16,8 +16,11 @@ My life gist :
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game. 
 
 💻 WORKEXPERIENCE
+
 Software Engineer
+
 Carelon Global Solutions
+
 07/2021 - Present Bangalore
 
 1. Project: Rehab Pre-Auth – HealthCare Domain
@@ -30,17 +33,24 @@ receiving a health care service or medication.
 
 • Designed and developed Java-based applications, leveraging Core Java and Java 8 features to ensure 
   efficient and robust code.
+  
 • Implemented Microservices architecture using Spring Boot, improving scalability and maintainability of the 
   applications.
+  
 • Developed RESTful APIs and Web services to facilitate seamless communication between different 
   modules of the applications.
+  
 • Managed the full software development lifecycle, including requirements gathering, analysis, design, 
   coding, testing, and deployment of robust solutions.
+  
 • Developed unit test cases for microservices to verify report functionality using JUnit, Mockito, and Rest 
   Assured.
+  
 • Worked with technologies such as RabbitMQ, Kibana, Git, and Elasticsearch.
+
 • Implemented Spring Boot framework to build RESTful APIs, enhancing the functionality and performance of 
   web applications.
+  
 • Collaborated with frontend developers and QA teams to ensure seamless integration and delivery of highquality software products
 
 2. Project: Automation Framework Development
@@ -48,9 +58,12 @@ receiving a health care service or medication.
 - 💬: Partnered with cross-functional teams to design and implement advanced automation frameworks, 
 streamlining API flows across various scenarios.
 
-• Actively contributed to the continuous enhancement of the automation strategy and framework
+• Actively contributed to the continuous enhancement of the automation strategy and framework.
+
 • Developed automated API flow validations using Rest Assured.
+
 • Created a UI automation framework utilizing Selenium Cucumber.
+
 • Collaborated with cross-functional teams to understand requirements and deliver high-quality software 
   solutions within project timelines.
 
@@ -76,8 +89,12 @@ streamlining API flows across various scenarios.
 
 
 🧗🏻‍♂️ ACHIEVEMENTS
+
 • Collaborated with cross-functional teams to successfully deliver features on time
+
 • Awarded 7 Impact Awards for consistently meeting project goals and deadlines.
+
 • Promoted to Software Engineer in recognition of outstanding performance and contributions.
+
 • Moved to the different team to finish the critical and priority stories before deadline ensuring the 
   quality is not compromised.
